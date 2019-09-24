@@ -50,5 +50,5 @@ Cem Gursan
     * Initial Release
 
 ## License
-
+This project was inspired from Jose Portilla Udemy courses on dAta Analysis. Highly Suggest his courses for Data Analysis!
 This project is free to use for all Python Lovers
